@@ -1,5 +1,0 @@
-name = "my-blog"
-compatibility_date = "2026-02-13"
-
-[site]
-bucket = "./dist"
